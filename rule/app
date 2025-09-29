@@ -1,1 +1,8 @@
 
+  - PROCESS-NAME,com.bilibili.app.in,DIRECT
+  - PROCESS-NAME,com.dragon.read,DIRECT
+  - PROCESS-NAME,com.xingin.xhs,DIRECT
+  - PROCESS-NAME,com.tencent.mm,DIRECT
+  - PROCESS-NAME,io.dcloud.maiyatian,DIRECT
+  - PROCESS-NAME,com.sankuai.meituan.meituanwaimaibusiness,DIRECT
+  - PROCESS-NAME,com.baidu.lbs.xinlingshou,DIRECT
